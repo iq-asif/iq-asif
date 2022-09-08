@@ -8,4 +8,4 @@ since 2 years I've been living at web development and creating modern and user f
 <p>Currently improving my backend<p/>
 
 <strong>Find us</strong>
-<a href="https://www.linkedin.com/in/asif-iqbal-ba8baa184/">Linked In</a>
+<p><a href="https://www.linkedin.com/in/asif-iqbal-ba8baa184/">Linked In</a></p>
