@@ -1,11 +1,24 @@
-<strong>Hey I am Asif Iqbal</strong>
+👋 Hi, I'm Asif Iqbal!
 
-I work as a front-end developer with UI/UX design skills (front-end designer). I´m based in Jharkhand India.
+💻 **Front-End Developer | UI/UX Designer**
 
-since 2 years I've been living at web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
+I'm a passionate Front-End Developer and UI/UX Designer with 4+ years of experience building modern, responsive, and user-friendly websites and web applications.
 
-<strong>What I'm focusing on</strong>
-<p>Currently improving my backend<p/>
+🚀 **Tech Stack & Skills**
+- HTML5, CSS3, JavaScript
+- React.js
+- WordPress & Elementor
+- Figma & UI/UX Design
+- Responsive Web Design
 
-<strong>Find us</strong>
-<p><a href="https://www.linkedin.com/in/asif-iqbal-ba8baa184/">Linked In</a></p>
+🎯 **What I Do**
+- Build responsive and interactive web interfaces.
+- Transform Figma designs into functional websites.
+- Create clean, user-friendly UI/UX experiences.
+- Customize and maintain WordPress websites.
+
+🌱 Always learning, exploring new technologies, and improving my development skills.
+
+📫 **Let's Connect:**
+Linkedin: https://www.linkedin.com/in/md-asif-iqbal-ba8baa184/
+Portfolio: https://iq-asif.github.io/md-asif-iqbal-portfolio/.
